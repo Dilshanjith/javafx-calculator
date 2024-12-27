@@ -125,38 +125,29 @@ Controller Class
 How to Run
 
     Clone the Repository:
-
+    
         git clone <repository-url>
-
+        
     Set Up JavaFX:
-
+    
         Ensure you have Java 8 or later installed.
-
         Add JavaFX libraries to your project.
-
+        
     Compile and Run:
-
+    
         Compile and run the Main class to start the application.
-
-UI Layout
-
+        
+UI Layout - 
     The UI is defined in the sample.fxml file, which includes:
-
         A Label for displaying the output.
-
         Buttons for numbers (0-9), operators (+, -, ×, ÷), and a clear (C) button
-
-Error Handling
-
+        
+Error Handling - 
     Displays ERROR when attempting to divide by zero.
-
     Clears the state when the C button is pressed.
-
-License
-
+    
+License - 
     This project is open-source and free to use.
-
-
-Contributions
-
+    
+Contributions -
     Feel free to submit pull requests or open issues to suggest improvements or report bugs
