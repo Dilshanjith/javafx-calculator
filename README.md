@@ -12,9 +12,9 @@ Features
 
     Subtraction (-)
 
-    Multiplication (\u00d7)
+    Multiplication (*)
 
-    Division (\u00f7)
+    Division (/)
 
     Input numbers using a simple, interactive UI.
 
